@@ -38,7 +38,7 @@ pip install pycaret pandas scikit-learn
 
 ## Project Structure
 - fuel_cell_performance.csv  
-- fuel_cell_prediction.py    
+- Fuel-performance-tester.ipynb    
 - README.md                 
 
 ## Conclusion
