@@ -37,7 +37,7 @@ pip install pycaret pandas scikit-learn
 - Generate the Report: After running the models, a detailed report will be shown, comparing all the models.
 
 ## Project Structure
-- fuel_cell_performance.csv  
+- Fuel_cell_performance_data-Full.csv
 - Fuel-performance-tester.ipynb    
 - README.md                 
 
